@@ -2,13 +2,46 @@
 
 Please check the markdown code then you will know how to do it. Enjoy your time!
 
+
+## Resize to width = 300 
+
+````html
+<div align="center">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/136701619-7223232b-f0a2-4efd-8320-a1666b8e6e08.png" 
+      width=300>
+    </div>
+````
+
+<div align="center">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/136701619-7223232b-f0a2-4efd-8320-a1666b8e6e08.png" 
+      width=300>
+    </div>
+
+## Resize to 25% 
+
+````html
+<div align="center">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/136701619-7223232b-f0a2-4efd-8320-a1666b8e6e08.png" 
+      width="25%" height="25%">
+    </div>
+````
+
+<div align="center">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/136701619-7223232b-f0a2-4efd-8320-a1666b8e6e08.png" 
+      width="25%" height="25%">
+    </div>
+
 ## Resize to 50% 
 
 ````html
 <div align="center">
      <img 
       src="https://user-images.githubusercontent.com/89304181/136701619-7223232b-f0a2-4efd-8320-a1666b8e6e08.png" 
-      width="50%" height="50%">
+      width="50%" height="5%">
     </div>
 ````
 
@@ -16,22 +49,6 @@ Please check the markdown code then you will know how to do it. Enjoy your time!
      <img 
       src="https://user-images.githubusercontent.com/89304181/136701619-7223232b-f0a2-4efd-8320-a1666b8e6e08.png" 
       width="50%" height="50%">
-    </div>
-
-## Resize to 75% 
-
-````html
-<div align="center">
-     <img 
-      src="https://user-images.githubusercontent.com/89304181/136701619-7223232b-f0a2-4efd-8320-a1666b8e6e08.png" 
-      width="75%" height="75%">
-    </div>
-````
-
-<div align="center">
-     <img 
-      src="https://user-images.githubusercontent.com/89304181/136701619-7223232b-f0a2-4efd-8320-a1666b8e6e08.png" 
-      width="75%" height="75%">
     </div>
 
 
