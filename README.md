@@ -10,7 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/89304181/130322079-320e83df-63ba-4da2-82bc-f409fc4c2d05.png)
 
-## Tiker CAD
+## Tinker CAD
 
 ![image](https://github.com/Grace-TA/ES-Fall2021/assets/89304181/673ba1fa-4d29-4bef-96e7-622c571414f1)
 
