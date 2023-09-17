@@ -11,6 +11,10 @@
 
 ![giphy](https://user-images.githubusercontent.com/89304181/135289206-8607be23-99b4-46e3-8b68-d87119587020.gif)
 
+## 4分鐘教你使用Win10內建螢幕錄影功能
+
+[https://ivory-gaura-57e.notion.site/2023-477be027e7a7473092b7e161aa8acb74](https://www.youtube.com/watch?v=mLgT3yZwqgc)
+
 ## Another method by Power Point
 
 ["How to make Animated GIF using Microsoft PowerPoint"](https://www.youtube.com/watch?v=szbFDKVHkOM)
